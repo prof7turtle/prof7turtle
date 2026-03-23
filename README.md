@@ -19,7 +19,7 @@
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
   <!-- Using here my deployed stats project on vercel, if you are cloning please change this link as it will be expired on 18th Feb 2026 -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-woad-five.vercel.app?user=prof7turtle&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prof7turtle&theme=tokyonight-duo" alt="GitHub Streak" /></a>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
