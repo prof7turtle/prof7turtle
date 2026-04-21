@@ -23,6 +23,7 @@
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
+<!--
 #
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/github.gif"></a>
 <br/>
@@ -41,7 +42,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
-<br/>
+<br/> -->
 <br/>
 <br/>
 
